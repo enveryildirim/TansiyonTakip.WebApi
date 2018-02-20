@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="HastaTakip.WCF.WS_Hasta" CodeBehind="WS_Hasta.svc.cs" %>

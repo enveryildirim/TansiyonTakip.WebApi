@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\HastaTakipWEB</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/10/2015 13:48:43</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>06/10/2015 13:48:43</publishTime>
+    </File>
+    <File Include="bin/HastaTakip.BLL.dll">
+      <publishTime>12/07/2015 10:56:29</publishTime>
+    </File>
+    <File Include="bin/HastaTakip.DAL.dll">
+      <publishTime>12/07/2015 10:56:29</publishTime>
+    </File>
+    <File Include="bin/HastaTakip.Entities.dll">
+      <publishTime>12/07/2015 10:56:27</publishTime>
+    </File>
+    <File Include="bin/HastaTakip.WCF.dll">
+      <publishTime>12/07/2015 10:56:30</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/06/2015 16:47:31</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>06/10/2015 19:16:04</publishTime>
+    </File>
+    <File Include="bin/Ninject.Extensions.Interception.dll">
+      <publishTime>10/08/2015 22:36:04</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/09/2015 09:41:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/04/2015 22:42:34</publishTime>
+    </File>
+    <File Include="WS_Doktor.svc">
+      <publishTime>09/30/2015 23:51:25</publishTime>
+    </File>
+    <File Include="WS_Hasta.svc">
+      <publishTime>10/08/2015 06:42:57</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

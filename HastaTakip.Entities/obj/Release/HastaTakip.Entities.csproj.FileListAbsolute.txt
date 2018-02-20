@@ -1,0 +1,16 @@
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\HastaTakip.Entities.dll.config
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\HastaTakip.Entities.dll
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\HastaTakip.Entities.pdb
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\EntityFramework.dll
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\EntityFramework.SqlServer.dll
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\EntityFramework.xml
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\EntityFramework.SqlServer.xml
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\obj\Release\HastaTakip.Entities.csprojResolveAssemblyReference.cache
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\obj\Release\HastaTakip.Entities.dll
+D:\YandexYedek\AR-GE\HastaTakip\HastaTakip.Entities\obj\Release\HastaTakip.Entities.pdb
+D:\YandexDiskYedek\YandexDisk\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\HastaTakip.Entities.dll.config
+D:\YandexDiskYedek\YandexDisk\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\HastaTakip.Entities.dll
+D:\YandexDiskYedek\YandexDisk\AR-GE\HastaTakip\HastaTakip.Entities\bin\Release\HastaTakip.Entities.pdb
+D:\YandexDiskYedek\YandexDisk\AR-GE\HastaTakip\HastaTakip.Entities\obj\Release\HastaTakip.Entities.csprojResolveAssemblyReference.cache
+D:\YandexDiskYedek\YandexDisk\AR-GE\HastaTakip\HastaTakip.Entities\obj\Release\HastaTakip.Entities.dll
+D:\YandexDiskYedek\YandexDisk\AR-GE\HastaTakip\HastaTakip.Entities\obj\Release\HastaTakip.Entities.pdb
